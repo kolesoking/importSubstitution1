@@ -34,4 +34,5 @@ enum Category: String {
     case soft = "Программное обеспечение"
 }
 
-// asdasasdasdasd
+
+//2222
