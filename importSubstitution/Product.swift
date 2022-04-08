@@ -33,3 +33,5 @@ enum Category: String {
     case food = "Продукты питания"
     case soft = "Программное обеспечение"
 }
+
+// asdasasdasdasd
