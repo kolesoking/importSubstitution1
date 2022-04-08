@@ -15,6 +15,7 @@
 		BCCF2C3627FFA7AC0031A449 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BCCF2C3427FFA7AC0031A449 /* LaunchScreen.storyboard */; };
 		BCCF2C3E2800BA800031A449 /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCF2C3D2800BA800031A449 /* Product.swift */; };
 		BCCF2C402800BE780031A449 /* DataManeger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BCCF2C3F2800BE780031A449 /* DataManeger.swift */; };
+		C48840DC2800CE26001B85F9 /* File.swift in Sources */ = {isa = PBXBuildFile; fileRef = C48840DB2800CE26001B85F9 /* File.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		BCCF2C3727FFA7AC0031A449 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BCCF2C3D2800BA800031A449 /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
 		BCCF2C3F2800BE780031A449 /* DataManeger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManeger.swift; sourceTree = "<group>"; };
+		C48840DB2800CE26001B85F9 /* File.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = File.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,6 +66,7 @@
 				BCCF2C2B27FFA7AB0031A449 /* SceneDelegate.swift */,
 				BCCF2C2D27FFA7AB0031A449 /* ViewController.swift */,
 				BCCF2C3D2800BA800031A449 /* Product.swift */,
+				C48840DB2800CE26001B85F9 /* File.swift */,
 				BCCF2C3F2800BE780031A449 /* DataManeger.swift */,
 				BCCF2C2F27FFA7AB0031A449 /* Main.storyboard */,
 				BCCF2C3227FFA7AC0031A449 /* Assets.xcassets */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				BCCF2C2E27FFA7AB0031A449 /* ViewController.swift in Sources */,
+				C48840DC2800CE26001B85F9 /* File.swift in Sources */,
 				BCCF2C2A27FFA7AB0031A449 /* AppDelegate.swift in Sources */,
 				BCCF2C402800BE780031A449 /* DataManeger.swift in Sources */,
 				BCCF2C2C27FFA7AB0031A449 /* SceneDelegate.swift in Sources */,
