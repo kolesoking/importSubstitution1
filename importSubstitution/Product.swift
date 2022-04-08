@@ -36,3 +36,4 @@ enum Category: String {
 
 
 //2222
+let a = 0
